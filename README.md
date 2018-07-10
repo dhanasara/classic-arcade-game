@@ -1,3 +1,2 @@
-Classic Arcade Game for Udacity Nanodegree Program
-===================================================
-
+# classic-arcade-game
+Classic Arcade Game
