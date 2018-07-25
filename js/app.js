@@ -1,12 +1,13 @@
-var gameLevel = 0;
-var playerPosX = 200;
-var playerPosY = 380;
-var stepX = 50;
-var stepY = 30;
-var enemySpeed;
+let gameLevel = 0;
 let speedThershold = 500;
 let increaseEnemySpeed = 150
 let playerSpeedIncrement = 100;
+const playerPosX = 200;
+const playerPosY = 380;
+const stepX = 50;
+const stepY = 30;
+var enemySpeed;
+
 
 $(document).ready(function(){
     $('#gameLevel').text(gameLevel);
